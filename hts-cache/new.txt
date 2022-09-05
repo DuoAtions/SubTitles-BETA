@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:18:59	67/67	---M--	200	added ('OK')	text/plain	etag:W/%2243-181f3394650%22	http://subtitles.lol/robots.txt		(from )
+23:18:59	1821/1821	---MCZ	200	added ('OK')	text/html	etag:W/%2271d-BGcug2yBwUNyCJS/S1hYl4922NM%22	http://subtitles.lol/	C:/My%20Web%20Sites/SubTital/subtitles.lol/index.html	(from )
+23:19:00	5347/5347	---M--	200	added ('OK')	image/png	etag:W/%2214e3-181f3394650%22	http://subtitles.lol/logo192.png	C:/My%20Web%20Sites/SubTital/subtitles.lol/logo192.png	(from http://subtitles.lol/)
+23:19:00	492/492	---M--	200	added ('OK')	application/json	etag:W/%221ec-181f3394650%22	http://subtitles.lol/manifest.json	C:/My%20Web%20Sites/SubTital/subtitles.lol/manifest.json	(from http://subtitles.lol/)
+23:19:17	1991253/1991253	---MCZ	200	added ('OK')	application/javascript	etag:W/%221e6255-bd920moP8SA8JXkQDwdoy+NfCII%22	http://subtitles.lol/static/js/bundle.js	C:/My%20Web%20Sites/SubTital/subtitles.lol/static/js/bundle.js	(from http://subtitles.lol/)
